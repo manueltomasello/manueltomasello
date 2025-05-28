@@ -9,13 +9,13 @@
 </p>
 
 <p>
-  I love spending time to find new solutions .
+  I'm passionate about developing innovative solutions to improve productivity in manufacturing processes.
 </p>
 
 <h3 style="color:#2c3e50;">🎯 Interests & Hobbies</h3>
 
 <ul>
-  <li> Passionate about cars and automotive tech</li>
+  <li> Passionate about cars</li>
   <li> Swimming</li>
   <li> Hiking and exploring nature in the mountains</li>
 </ul>
