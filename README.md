@@ -1,7 +1,8 @@
 <h2>Those who can imagine anything, can create the impossible.</h2>
 <p>
   I'm <strong>Manuel Tomasello</strong>, an IT based in <strong>Modena, Italy</strong>.<br>
-  I currently work at <strong>Salami S.p.A.</strong>, where I manage a broad range of IT tasks, including helpdesk, networking, software development, Industry 4.0.
+  I currently work at <strong>Salami S.p.A.</strong>, where I manage a broad range of IT tasks, including
+  helpdesk, networking, software development, Industry 4.0.
 </p>
 
 <p>
