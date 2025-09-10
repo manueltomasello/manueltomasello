@@ -4,13 +4,12 @@
   I currently work at <strong>long-established hydraulic company</strong>, where I manage a broad range of IT tasks, including <br>
   helpdesk, networking, software development, Industry 4.0.
 </p>
-
 <p>
-  I'm also a student at the <strong>Department of Computer Science and Engineering</strong> of the <strong>University of Bologna – Cesena Campus</strong>.
+  I'm passionate about developing innovative solutions to improve productivity in manufacturing processes.
 </p>
 
 <p>
-  I'm passionate about developing innovative solutions to improve productivity in manufacturing processes.
+  I'm also a student at the <strong>Department of Computer Science and Engineering</strong> of the <strong>University of Bologna – Cesena Campus</strong>.
 </p>
 
 <h3 style="color:#2c3e50;">Interests & Hobbies</h3>
