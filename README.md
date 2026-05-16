@@ -2,7 +2,7 @@
 <p>
   I'm <strong>Manuel Tomasello</strong>, an IT based in <strong>Modena, Italy</strong>.<br>
   I currently work at <strong>long-established hydraulic company</strong>, where I manage a broad range of IT tasks, including <br>
-  networking, cybersecurity (NIS appliance), software development, Industry 4.0.
+  networking, cybersecurity (NIS appliance), software development, introducing AI into manufacturing process and Industry 4.0.
 </p>
 <p>
   I'm passionate about developing innovative solutions to improve productivity in manufacturing processes.
@@ -16,6 +16,7 @@
 
 <ul>
   <li> Passionate about cars</li>
+  <li> Volley</li>
   <li> Swimming</li>
   <li> Hiking and exploring nature in the mountains</li>
 </ul>
