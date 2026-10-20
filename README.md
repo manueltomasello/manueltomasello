@@ -2,7 +2,7 @@
 <p>
   I'm <strong>Manuel Tomasello</strong>, an IT Manager based in <strong>Modena, Italy</strong>.<br>
   I currently work at <strong>innovative biomedical company</strong>, where I manage a broad range of IT tasks, including <br>
-  Policies, Governance, Networking, Digitization of Workflows, Data Manipulation in SQL, cybersecurity (NIS compliance), introducing AI into manufacturing process, Industry 4.0 OPC-UA.
+  Policies, Governance, Supplier Management, Networking, Digitization of Workflows, Data Manipulation in SQL, cybersecurity (NIS compliance), introducing AI into manufacturing process, Industry 4.0 (siemens OPC-UA).
 </p>
 <p>
   I'm passionate about developing innovative solutions to improve productivity in manufacturing processes.
